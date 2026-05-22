@@ -32,6 +32,8 @@ a recording from a capsule on the london eye, a jerky zoom into something in the
 
 **视频：**
 
+<video src="https://raw.githubusercontent.com/ZeroLu/awesome-gemini-omni/main/videos/fofrai-2056503814874861569.mp4" controls muted playsinline width="720"></video>
+
 [fofrai-2056503814874861569.mp4](./videos/fofrai-2056503814874861569.mp4)
 
 *来源：fofr ([@fofrAI](https://x.com/fofrAI)) - [帖子](https://x.com/fofrAI/status/2056789242274259242)*
@@ -46,9 +48,15 @@ A professor writes out a mathematical proof for
 
 **视频：**
 
+<video src="https://raw.githubusercontent.com/ZeroLu/awesome-gemini-omni/main/videos/tomlikesrobots-1-2053844770892439552.mp4" controls muted playsinline width="720"></video>
+
 [tomlikesrobots-1-2053844770892439552.mp4](./videos/tomlikesrobots-1-2053844770892439552.mp4)
 
+<video src="https://raw.githubusercontent.com/ZeroLu/awesome-gemini-omni/main/videos/tomlikesrobots-2-2053844850789756928.mp4" controls muted playsinline width="720"></video>
+
 [tomlikesrobots-2-2053844850789756928.mp4](./videos/tomlikesrobots-2-2053844850789756928.mp4)
+
+<video src="https://raw.githubusercontent.com/ZeroLu/awesome-gemini-omni/main/videos/tomlikesrobots-3-2053823837263839232.mp4" controls muted playsinline width="720"></video>
 
 [tomlikesrobots-3-2053823837263839232.mp4](./videos/tomlikesrobots-3-2053823837263839232.mp4)
 
@@ -68,6 +76,8 @@ No fighting or combat this time—we are testing pure video editing power, physi
 
 **视频：**
 
+<video src="https://raw.githubusercontent.com/ZeroLu/awesome-gemini-omni/main/videos/jsfilmz-2057117155280191488.mp4" controls muted playsinline width="720"></video>
+
 [jsfilmz-2057117155280191488.mp4](./videos/jsfilmz-2057117155280191488.mp4)
 
 *来源：JSFILMZ ([@JSFILMZ0412](https://x.com/JSFILMZ0412)) - [帖子](https://x.com/JSFILMZ0412/status/2057118348199018873)*
@@ -81,6 +91,8 @@ Build your next story with Gemini Omni.
 ```
 
 **视频：**
+
+<video src="https://raw.githubusercontent.com/ZeroLu/awesome-gemini-omni/main/videos/googledeepmind-2056885754996133888.mp4" controls muted playsinline width="720"></video>
 
 [googledeepmind-2056885754996133888.mp4](./videos/googledeepmind-2056885754996133888.mp4)
 
