@@ -32,9 +32,9 @@ a recording from a capsule on the london eye, a jerky zoom into something in the
 
 **视频：**
 
-<video src="https://raw.githubusercontent.com/ZeroLu/awesome-gemini-omni/main/videos/fofrai-2056503814874861569.mp4" controls muted playsinline width="720"></video>
+https://github.com/user-attachments/assets/a0fa2abb-c816-4d62-a44c-f5c7550886b4
 
-[fofrai-2056503814874861569.mp4](./videos/fofrai-2056503814874861569.mp4)
+原始下载：[fofrai-2056503814874861569.mp4](./videos/fofrai-2056503814874861569.mp4)
 
 *来源：fofr ([@fofrAI](https://x.com/fofrAI)) - [帖子](https://x.com/fofrAI/status/2056789242274259242)*
 
@@ -48,17 +48,17 @@ A professor writes out a mathematical proof for
 
 **视频：**
 
-<video src="https://raw.githubusercontent.com/ZeroLu/awesome-gemini-omni/main/videos/tomlikesrobots-1-2053844770892439552.mp4" controls muted playsinline width="720"></video>
+https://github.com/user-attachments/assets/023bba16-bccb-492f-a7f3-bca668a4e5d3
 
-[tomlikesrobots-1-2053844770892439552.mp4](./videos/tomlikesrobots-1-2053844770892439552.mp4)
+原始下载：[tomlikesrobots-1-2053844770892439552.mp4](./videos/tomlikesrobots-1-2053844770892439552.mp4)
 
-<video src="https://raw.githubusercontent.com/ZeroLu/awesome-gemini-omni/main/videos/tomlikesrobots-2-2053844850789756928.mp4" controls muted playsinline width="720"></video>
+https://github.com/user-attachments/assets/4a27b53c-a06d-4f81-a49b-5bb922ced286
 
-[tomlikesrobots-2-2053844850789756928.mp4](./videos/tomlikesrobots-2-2053844850789756928.mp4)
+原始下载：[tomlikesrobots-2-2053844850789756928.mp4](./videos/tomlikesrobots-2-2053844850789756928.mp4)
 
-<video src="https://raw.githubusercontent.com/ZeroLu/awesome-gemini-omni/main/videos/tomlikesrobots-3-2053823837263839232.mp4" controls muted playsinline width="720"></video>
+https://github.com/user-attachments/assets/d0b0f2a1-65e2-40db-a8a4-c43da32d9e30
 
-[tomlikesrobots-3-2053823837263839232.mp4](./videos/tomlikesrobots-3-2053823837263839232.mp4)
+原始下载：[tomlikesrobots-3-2053823837263839232.mp4](./videos/tomlikesrobots-3-2053823837263839232.mp4)
 
 *来源：TomLikesRobots ([@TomLikesRobots](https://x.com/TomLikesRobots)) - [帖子](https://x.com/TomLikesRobots/status/2053845600051798065)*
 
@@ -74,11 +74,11 @@ This time Seedance 2.0 Fast vs Google Gemini Omni.
 No fighting or combat this time—we are testing pure video editing power, physics, water sim and more!
 ```
 
-**视频：**
+**预览视频：**
 
-<video src="https://raw.githubusercontent.com/ZeroLu/awesome-gemini-omni/main/videos/jsfilmz-2057117155280191488.mp4" controls muted playsinline width="720"></video>
+https://github.com/user-attachments/assets/0e3786b7-7f99-48b6-8bae-56cf77457ce0
 
-[jsfilmz-2057117155280191488.mp4](./videos/jsfilmz-2057117155280191488.mp4)
+原始下载：[jsfilmz-2057117155280191488.mp4](./videos/jsfilmz-2057117155280191488.mp4)
 
 *来源：JSFILMZ ([@JSFILMZ0412](https://x.com/JSFILMZ0412)) - [帖子](https://x.com/JSFILMZ0412/status/2057118348199018873)*
 
@@ -90,11 +90,11 @@ No fighting or combat this time—we are testing pure video editing power, physi
 Build your next story with Gemini Omni.
 ```
 
-**视频：**
+**预览视频：**
 
-<video src="https://raw.githubusercontent.com/ZeroLu/awesome-gemini-omni/main/videos/googledeepmind-2056885754996133888.mp4" controls muted playsinline width="720"></video>
+https://github.com/user-attachments/assets/f4e7b633-9cf0-42cd-a4de-9c374c62c22f
 
-[googledeepmind-2056885754996133888.mp4](./videos/googledeepmind-2056885754996133888.mp4)
+原始下载：[googledeepmind-2056885754996133888.mp4](./videos/googledeepmind-2056885754996133888.mp4)
 
 *来源：Google DeepMind ([@GoogleDeepMind](https://x.com/GoogleDeepMind)) - [帖子](https://x.com/GoogleDeepMind/status/2056893980751917178)*
 
@@ -109,7 +109,7 @@ Build your next story with Gemini Omni.
 - Prompt 说明文档：[prompts/x-bookmarks.md](./prompts/x-bookmarks.md)
 - 官方发布帖：https://x.com/GoogleDeepMind/status/2056893980751917178
 - Google 官方博客：https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni/
-- 国内可直接试视频工作流入口：https://cyberbara.com/zh/ai-video-generator
+- 国内可直接体验 Gemini Omni 的 Cyberbara 页面：https://cyberbara.com/zh/gemini-omni
 
 ## 5. 贡献方式
 
