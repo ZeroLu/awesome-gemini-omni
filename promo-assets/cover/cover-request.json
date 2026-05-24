@@ -1,0 +1,10 @@
+{
+  "model": "nano-banana-pro",
+  "prompt": "Editorial cover art for a Chinese tech article about Gemini Omni, a cinematic AI video editing workspace, glowing timeline, layered video frames, motion curves, lens refocus effect, physically plausible scene transitions, dark navy and amber palette, premium magazine cover composition, strong contrast, large empty text-safe area on upper left, no words, no watermark, no UI clutter",
+  "scene": "text-to-image",
+  "options": {
+    "resolution": "2k",
+    "aspect_ratio": "16:9",
+    "output_format": "png"
+  }
+}
